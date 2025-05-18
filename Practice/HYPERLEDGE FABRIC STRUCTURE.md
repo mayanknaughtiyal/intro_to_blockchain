@@ -48,9 +48,11 @@ Peers are nodes that maintain the ledger and run chaincode.There are different t
 
 Below is a high-level architecture diagram of Hyperledger Fabric:
 
-![Hyperledger Fabric Architecture](https://hyperledger-fabric.readthedocs.io/en/latest/_images/fabric-arch.png)
+![Hyperledger Fabric Architecture](https://github.com/user-attachments/assets/5dd430b8-d687-4c51-bcfa-35c945421c3e)
 
-*Source: [Hyperledger Fabric Documentation](https://hyperledger-fabric.readthedocs.io/en/latest/architecture.html)*
+
+*Source: 
+
 
 ## Transaction Flow
 
