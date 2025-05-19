@@ -1,3 +1,5 @@
+//question:6 Create a contract that splits incoming Ether between 3 fixed addresses.
+
 pragma solidity ^0.8.4;
 
 contract Splitter {
